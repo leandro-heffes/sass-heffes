@@ -1,0 +1,41 @@
+header nav {
+  background-image: linear-gradient(to right, #349744, #187427, #064b0c);
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 125%; }
+
+header nav a {
+  text-decoration: none;
+  color: white; }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #141414; }
+
+footer {
+  color: white;
+  background-color: #080808;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px; }
+
+footer img {
+  width: 30%; }
+
+main {
+  background-image: url(../img/background-main.png);
+  border-bottom: 3px solid #4e5aff; }
+
+main img {
+  width: 85%;
+  display: block;
+  margin: auto;
+  padding: 100px; }
+
+main h1 {
+  color: white;
+  text-align: center;
+  font-size: 150%;
+  padding-bottom: 110px; }
